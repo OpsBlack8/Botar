@@ -1,5 +1,5 @@
 <?php
-$TOKEN = ""; // bot token
+$TOKEN = "7162526360:AAGvuqMsHQVvNMMqJWpLBMYHztx9O8uFyo0"; // bot token
 $botUsername = ""; // bot username without @
 
 /*
